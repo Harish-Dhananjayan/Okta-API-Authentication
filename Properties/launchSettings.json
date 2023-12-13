@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "RAS": {
+    "Okta": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
